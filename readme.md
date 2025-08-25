@@ -6,7 +6,7 @@
 - Service-Provider 提供者实现具体接口逻辑，并提供配置文件
 - spi-simple-example 运行 SPI示例
 ## 项目说明
-这里只提供了单个service-provider加载使用示例。
+项目结构
 ```
 .
 ├── lib
