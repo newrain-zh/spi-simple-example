@@ -25,7 +25,7 @@ public class LoggerService {
         loggerList = list;
         if (!list.isEmpty()) {
             // Logger 只取一个
-            logger = list.get(0);
+            logger = list.getFirst();
         } else {
             logger = null;
         }
